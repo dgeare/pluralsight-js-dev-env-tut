@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+#the db.json is going to change every time the server is start. No need to commit
+src/api/db.json
